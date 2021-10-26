@@ -54,7 +54,7 @@ namespace _10_25_2021_Coding_Challenge
                     }
                     else
                     {
-                        Console.WriteLine(+ x + "/" + y + "\n");
+                        Console.WriteLine(x + "/" + y + "\n");
 
                     }
                 }  
